@@ -1,0 +1,3 @@
+Prefix plugins/NaiveBayes/example
+Plugin NaiveBayes inputfile Iris.csv outputfile output.csv
+
